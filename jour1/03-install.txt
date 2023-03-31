@@ -1,0 +1,19 @@
+SQlite => facile à installer car utilisable directement dans Visual Studio
+
+Extension > SQlite > installer l'Extension de alexcvzz
+
+--------------
+
+SGBD logiciell qui va vous mettre de créer
+et gérer base / table / colonnes / enregistrement
+
+créer le fichier suivant 
+04-demo.db
+04-demo.SQlite
+
+une fois que le fichier est créé => fermer tout de suite
+il ne faut pas écrire dedans => c'est SQlite qui va écrire dedans
+----------
+
+05-table.sql => écrire du SQL
+SQL => SQlite
